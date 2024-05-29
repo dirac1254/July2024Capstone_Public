@@ -54,19 +54,5 @@ Based on the initial Area of Interest submission, some refinements have been mad
 - **Data Cleaning**: Extensive data cleaning steps have been implemented to handle missing values and ensure data quality.
 - **Modeling Approach**: A variety of machine learning models, including Random Forest and Gradient Boosting, will be explored to identify the best-performing model.
 
-## Getting Started
 
-### Prerequisites
-
-To run the code in this repository, you will need the following libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-
-You can install the required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
 
